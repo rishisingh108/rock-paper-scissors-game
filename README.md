@@ -24,14 +24,7 @@ A modern and interactive **Rock Paper Scissors game** built using **HTML, CSS, a
 
 ## 📸 Screenshots
 
-### 🕹️ Game Interface
-
-![Game UI](screenshot1.png)
-
-### 📊 Score Section
-
-![Score UI](screenshot2.png)
-
+-
 ---
 
 ## 🛠️ Tech Stack
@@ -81,8 +74,3 @@ Developed an interactive Rock-Paper-Scissors game using HTML, CSS, and JavaScrip
 * 🌙 Dark mode
 * 🤖 Smart AI opponent
 * 🌐 Multiplayer mode
-
-* ## 📸 Screenshots  
-
-### 🕹️ Game UI
-![Game UI](screenshot1.png)
