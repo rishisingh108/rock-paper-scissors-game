@@ -23,6 +23,8 @@ A modern and interactive **Rock Paper Scissors game** built using **HTML, CSS, a
 ---
 
 ## 📸 Screenshots
+![Game UI](Screenshot 2026-03-27 035018.png)
+![Game UI](Screenshot 2026-03-27 035046.png)
 
 -
 ---
